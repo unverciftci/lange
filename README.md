@@ -24,4 +24,14 @@ https://github.com/wgrgwrght/Simple-Diffusion/blob/main/SimpleDiffusion.ipynb
 
 https://yanndubs.github.io/Neural-Process-Family/text/Intro.html
 
+## SW
+
 https://learning.edx.org/course/course-v1:KyotoUx+009x+3T2021a/block-v1:KyotoUx+009x+3T2021a+type@sequential+block@6133daf072b04b0f9c4307f0aad6267d/block-v1:KyotoUx+009x+3T2021a+type@vertical+block@c645f0b23f3a44afb8a03dac2620c767
+
+https://github.com/patrick-kidger/diffrax
+
+https://github.com/cantaro86/Financial-Models-Numerical-Methods
+
+https://github.com/google-research/torchsde
+
+
