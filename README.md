@@ -20,9 +20,6 @@ https://arxiv.org/pdf/1402.4102.pdf
 
 https://arxiv.org/pdf/2202.02763.pdf
 
-https://github.com/wgrgwrght/Simple-Diffusion/blob/main/SimpleDiffusion.ipynb
-
-https://yanndubs.github.io/Neural-Process-Family/text/Intro.html
 
 ## SW
 
@@ -33,5 +30,10 @@ https://github.com/patrick-kidger/diffrax
 https://github.com/cantaro86/Financial-Models-Numerical-Methods
 
 https://github.com/google-research/torchsde
+
+https://yanndubs.github.io/Neural-Process-Family/text/Intro.html
+
+https://github.com/wgrgwrght/Simple-Diffusion/blob/main/SimpleDiffusion.ipynb
+
 
 
