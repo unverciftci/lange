@@ -35,5 +35,9 @@ https://yanndubs.github.io/Neural-Process-Family/text/Intro.html
 
 https://github.com/wgrgwrght/Simple-Diffusion/blob/main/SimpleDiffusion.ipynb
 
+https://github.com/connor-duffin/ula-statfem
+
+https://github.com/ozanciga/diffusion-for-beginners
+
 
 
